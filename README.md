@@ -6,7 +6,6 @@ This Cloud IDE is built using Node.js, React.js, and Socket.IO to provide a real
 ### Connect this with your frontend and enjoy the Collaborative development enviroment. Here I am providing the main funtion of backend interaction :
 
 
-## Terminal Syntax 
 
 ```bash
 
